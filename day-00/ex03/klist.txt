@@ -1,0 +1,5 @@
+Credentials cache: API:DCFA7772-F158-461F-A737-B154ACCF5505
+        Principal: hmarina@42.FR
+
+  Issued                Expires               Principal
+Mar  9 13:11:45 2020  Mar 16 13:11:36 2020  krbtgt/42.FR@42.FR
